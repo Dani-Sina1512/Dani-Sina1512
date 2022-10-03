@@ -1,5 +1,6 @@
 - 👋 Hola! Soy Daniela 
 - 👀 Soy Comunicadora Social, apasionada por el Desarrollo Web y las nuevas teconologías. Estoy formandome como Front-End Developer. Tengo conocimientos en HTML5, CSS3 y Bootstrap.
+- Actualmente estoy estudiando Javascript en Coderhouse.
 - 📫 www.linkedin.com/in/danielasinagra
 
 <!---
